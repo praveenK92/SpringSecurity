@@ -1,0 +1,1 @@
+INSERT INTO `users` VALUES ('naruto','$2a$10$B1ovkHpJtrM.SczG1rMk9OH5WeuadJzURtUkaMUxodhRfDeHMH76m',1,1,1,1),('sakura1','$2a$10$02UfoRAD3yMD9bXs/rX1YeAnIjVpGAmCQ1JRa6c/pgu1uQMqmaK5.',1,1,1,1),('sasuke1','$2a$10$02UfoRAD3yMD9bXs/rX1YeAnIjVpGAmCQ1JRa6c/pgu1uQMqmaK5.',1,1,1,1);
